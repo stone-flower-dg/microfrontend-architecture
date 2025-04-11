@@ -16,6 +16,6 @@
 
 !.gitignore
 
-!cases
+!cases/
 
-!capstone-project
+!capstone-project/
