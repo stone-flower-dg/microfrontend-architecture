@@ -1,6 +1,6 @@
 # Capstone Project
 
-The project provides example how to implement microfrontend architecture using module federation with vite.
+The project provides example how to implement microfrontend architecture using module federation plugin with vite.
 
 ## Structure
 
@@ -22,4 +22,6 @@ The example has 2 remote projects (fibonacci and pow) and 1 host project (core).
    3. Run `DEV_HOST=127.0.0.1 DEV_PORT=3002 yarn start`
 1. Open `localhost:3000` in browser
 
-// TODO: describe CI/CD
+## CI/CD example
+
+![CI/CD](assets/capstone-project-cicd.png)
