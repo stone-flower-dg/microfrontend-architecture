@@ -1,0 +1,25 @@
+# Project
+/*
+configs/config.local.json
+
+!.husky
+!configs
+!docker
+!docs
+!public
+!scripts
+!src
+!.dockerignore
+!.eslintrc.js
+!.gitignore
+!.prettierrc.js
+!Dockerfile
+!index.html
+!package.json
+!README.md
+!tsconfig.json
+!tsconfig.production.json
+!vite.config.js
+!vitest-setup.js
+!vitest.config.js
+!yarn.lock
